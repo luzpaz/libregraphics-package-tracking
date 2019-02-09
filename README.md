@@ -81,6 +81,25 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>olive-video-editor</th>
+    <th>openshot</th>
+    <th>obs-studio</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/olive-video-editor/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/olive-video-editor.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/openshot/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/openshot.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/obs-studio/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/obs-studio.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
 
 ## CAD
 <table>
