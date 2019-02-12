@@ -116,3 +116,24 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+
+
+## Music
+<table>
+  <tr>
+    <th>musescore</th>
+    <th>mixxx</th>
+    <th>vcvrack</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/musescore/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/musescore.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/mixxx/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/mixxx.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/vcvrack/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/vcvrack.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
