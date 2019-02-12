@@ -3,6 +3,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 
 
 ## Graphics
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>gimp</th>
@@ -40,8 +42,53 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+</details>
+
+## Photography
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
+<table>
+  <tr>
+    <th>darktable</th>
+    <th>rawtherapee</th>
+    <th>luminance-hdr</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/darktable/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/darktable.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/rawtherapee/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/rawtherapee.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>entangle</th>
+    <th>photoflow</th>
+    <th>gmic</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/entangle/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/entangle.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/photoflow/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/photoflow.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+</details>
 
 ## Video
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>vlc</th>
@@ -60,8 +107,11 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+</details>
 
 ## Video Editing
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>kdenlive</th>
@@ -100,8 +150,20 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>flowblade</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/olive-video-editor/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/olive-video-editor.svg" alt="Packaging status" align="right"></a>
+  </tr>
+</table>
+</details>
 
 ## CAD
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>freecad</th>
@@ -116,9 +178,11 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
-
+</details>
 
 ## Music
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>musescore</th>
@@ -137,3 +201,19 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>sonic-visualiser</th>
+    <th>lv2:gxplugins</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/sonic-visualiser/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+</details>
