@@ -232,4 +232,16 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>gstreamer1</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/gstreamer1/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gstreamer1.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
 </details>
