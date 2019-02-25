@@ -165,13 +165,14 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 </table>
 </details>
 
-## CAD
+## CAD/CAM/Interior Design
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>freecad</th>
     <th>librecad</th>
+    <th>sweethome3d</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/freecad/versions">
@@ -179,6 +180,9 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/librecad/versions">
       <img src="https://repology.org/badge/vertical-allrepos/librecad.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/sweethome3d/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/sweethome3d.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
