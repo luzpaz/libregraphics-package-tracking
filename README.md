@@ -188,6 +188,21 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 </table>
 </details>
 
+## Video Renderers
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
+<table>
+  <tr>
+    <th>appleseed</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/appleseed/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/appleseed.svg" alt="Packaging status" align="right"></a>
+    </td>
+</table>
+</details>
+
+
 ## Music/Audio
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
