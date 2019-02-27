@@ -74,7 +74,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>entangle</th>
     <th>photoflow</th>
-    <th>gmic</th>
+    <th>digikam</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/entangle/versions">
@@ -83,8 +83,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/photoflow/versions">
       <img src="https://repology.org/badge/vertical-allrepos/photoflow.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/digikam/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/digikam.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
