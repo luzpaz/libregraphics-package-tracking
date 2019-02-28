@@ -210,7 +210,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>musescore</th>
     <th>mixxx</th>
-    <th>vcvrack</th>
+    <th>lilypond</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/musescore/versions">
@@ -219,8 +219,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/mixxx/versions">
       <img src="https://repology.org/badge/vertical-allrepos/mixxx.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/vcvrack/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/vcvrack.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/lilypond/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -230,7 +230,6 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <th>portaudio</th>
     <th>jack2</th>
     <th>sonic-visualiser</th>
-    <th>lilypond</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/portaudio/versions">
@@ -241,9 +240,6 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/sonic-visualiser/versions">
       <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/lilypond/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
