@@ -258,7 +258,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
       <img src="https://repology.org/badge/vertical-allrepos/gstreamer1.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/zynaddsubfx/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfxs.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
