@@ -230,7 +230,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <th>portaudio</th>
     <th>jack2</th>
     <th>sonic-visualiser</th>
-    <th>lv2:gxplugins</th>
+    <th>lilypond</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/portaudio/versions">
@@ -242,8 +242,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/sonic-visualiser/versions">
       <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/lilypond/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -252,6 +252,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>gstreamer1</th>
     <th>zynaddsubfx</th>
+    <th>lv2:gxplugins</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gstreamer1/versions">
@@ -259,6 +260,9 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/zynaddsubfx/versions">
       <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
