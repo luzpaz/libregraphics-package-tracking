@@ -64,8 +64,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/rawtherapee/versions">
       <img src="https://repology.org/badge/vertical-allrepos/rawtherapee.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/luminance-hdr/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/luminance-hdr.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
