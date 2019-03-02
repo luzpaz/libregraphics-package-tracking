@@ -90,6 +90,18 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 </table>
 </details>
 
+<table>
+  <tr>
+    <th>photofilmstrip</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/photofilmstrip/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/photofilmstrip.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+</details>
+
 ## Video
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
