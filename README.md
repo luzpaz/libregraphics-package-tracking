@@ -88,7 +88,6 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
-</details>
 
 <table>
   <tr>
