@@ -197,6 +197,17 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+  
+<table>
+  <tr>
+    <th>kicad</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/kicad/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/kicad.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>  
 </details>
 
 ## Video Renderers
