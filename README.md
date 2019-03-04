@@ -48,6 +48,25 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 </table>
 </details>
 
+## 3D Modeling
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
+<table>
+  <tr>
+    <th>blender</th>
+    <th>wings3d</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/blender/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/blender.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/wings3d/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/wings3d.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+</details>
+
 ## Photography
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
