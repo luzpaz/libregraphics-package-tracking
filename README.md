@@ -26,10 +26,27 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 
 <table>
   <tr>
+    <th>mypaint</th>
+    <th>kolourpaint</th>
+    <th>gmic</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/mypaint/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/mypaint.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/kolourpaint/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/kolourpaint.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>synfigstudio</th>
     <th>synfig</th>
-    <th>mypaint</th>
-    <th>gmic</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/synfigstudio/versions">
@@ -38,14 +55,10 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/synfig/versions">
       <img src="https://repology.org/badge/vertical-allrepos/synfig.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/mypaint/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/mypaint.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
-    </td>
-  </tr>
 </table>
+
+
+
 </details>
 
 ## 3D Modeling
