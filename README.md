@@ -306,7 +306,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>gstreamer1</th>
     <th>zynaddsubfx</th>
-    <th>lv2:gxplugins</th>
+    <th>audacity</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gstreamer1/versions">
@@ -315,10 +315,22 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/zynaddsubfx/versions">
       <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/audacity/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/audacity.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>lv2:gxplugins</th>
+  </tr>
+  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
+
 
 </details>
