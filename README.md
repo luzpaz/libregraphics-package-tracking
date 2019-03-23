@@ -47,6 +47,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>synfigstudio</th>
     <th>synfig</th>
+    <th>milton</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/synfigstudio/versions">
@@ -54,6 +55,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/synfig/versions">
       <img src="https://repology.org/badge/vertical-allrepos/synfig.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/milton/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/milton.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
