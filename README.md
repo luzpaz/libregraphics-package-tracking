@@ -61,6 +61,16 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 </table>
 
 
+<table>
+  <tr>
+    <th>fontforge</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/fontforge/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/fontforge.svg" alt="Packaging status" align="right"></a>
+    </td>
+</table>
+
 
 </details>
 
