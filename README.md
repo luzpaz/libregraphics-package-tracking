@@ -152,18 +152,18 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>vlc</th>
-    <th>miro</th>
     <th>mpv</th>
+    <th>ffmpeg</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/vlc/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vlc.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/miro/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/miro.svg" alt="Packaging status" align="right"></a>
-    </td>
     <td valign="top"><a href="https://repology.org/metapackage/mpv/versions">
       <img src="https://repology.org/badge/vertical-allrepos/mpv.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ffmpeg/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ffmpeg.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
