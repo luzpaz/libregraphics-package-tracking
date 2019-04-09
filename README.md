@@ -64,10 +64,14 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>fontforge</th>
+    <th>gegl</th>    
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/fontforge/versions">
       <img src="https://repology.org/badge/vertical-allrepos/fontforge.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gegl/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gegl.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
