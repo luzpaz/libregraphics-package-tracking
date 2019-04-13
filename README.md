@@ -65,6 +65,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>fontforge</th>
     <th>gegl</th>    
+    <th>babl</th>    
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/fontforge/versions">
@@ -72,6 +73,9 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/gegl/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gegl.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/babl/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/babl.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
