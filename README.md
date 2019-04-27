@@ -288,18 +288,29 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>musescore</th>
-    <th>mixxx</th>
     <th>lilypond</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/musescore/versions">
       <img src="https://repology.org/badge/vertical-allrepos/musescore.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/lilypond/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>mixxx</th>
+    <th>giada</th>
+  </tr>
+  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/mixxx/versions">
       <img src="https://repology.org/badge/vertical-allrepos/mixxx.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/lilypond/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/giada/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/giada.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
