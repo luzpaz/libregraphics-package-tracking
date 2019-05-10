@@ -8,8 +8,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>gimp</th>
-    <th>inkscape</th>
-    <th>krita</th>
+    <th>gegl</th>
+    <th>babl</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gimp/versions">
@@ -80,8 +80,6 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>fontforge</th>
-    <th>gegl</th>    
-    <th>babl</th>    
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/fontforge/versions">
