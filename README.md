@@ -15,6 +15,21 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/gimp/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gimp.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gegl/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gegl.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/babl/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/babl.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>inkscape</th>
+    <th>krita</th>
+  </tr>
+  <tr>
     <td valign="top"><a href="https://repology.org/metapackage/inkscape/versions">
       <img src="https://repology.org/badge/vertical-allrepos/inkscape.svg" alt="Packaging status" align="right"></a>
     </td>
@@ -23,6 +38,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -70,12 +86,6 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/fontforge/versions">
       <img src="https://repology.org/badge/vertical-allrepos/fontforge.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/gegl/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gegl.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/babl/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/babl.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
