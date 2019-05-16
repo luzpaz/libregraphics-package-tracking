@@ -28,6 +28,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>inkscape</th>
     <th>krita</th>
+    <th>gmic</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/inkscape/versions">
@@ -36,6 +37,9 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     <td valign="top"><a href="https://repology.org/metapackage/krita/versions">
       <img src="https://repology.org/badge/vertical-allrepos/krita.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
+    </td>    
   </tr>
 </table>
 
@@ -43,18 +47,18 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>mypaint</th>
-    <th>kolourpaint</th>
-    <th>gmic</th>
+    <th>azpainter</th>
+    <th>kolourpaint</th>    
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/mypaint/versions">
       <img src="https://repology.org/badge/vertical-allrepos/mypaint.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/azpainter/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/azpainter.svg" alt="Packaging status" align="right"></a>
+    </td>
     <td valign="top"><a href="https://repology.org/metapackage/kolourpaint/versions">
       <img src="https://repology.org/badge/vertical-allrepos/kolourpaint.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/gmic/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gmic.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
