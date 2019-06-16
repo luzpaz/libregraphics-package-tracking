@@ -374,3 +374,26 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 
 
 </details>
+
+## Desktop Publishing
+<details>
+  <summary><b>Expand this section in order to view it</b></summary>
+<table>
+  <tr>
+    <th>scribus</th>
+    <th>sk1</th>
+    <th>laidout</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/scribus/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/scribus.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/sk1/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/sk1.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/laidout/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/laidout.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
