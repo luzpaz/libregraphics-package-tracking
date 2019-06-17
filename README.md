@@ -338,15 +338,15 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>portaudio</th>
-    <th>jack2</th>
+    <th>jack-audio-connection-kit</th>
     <th>sonic-visualiser</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/portaudio/versions">
       <img src="https://repology.org/badge/vertical-allrepos/portaudio.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/jack2/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/jack2.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/jack-audio-connection-kit/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/jack-audio-connection-kit.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/sonic-visualiser/versions">
       <img src="https://repology.org/badge/vertical-allrepos/sonic-visualiser.svg" alt="Packaging status" align="right"></a>
