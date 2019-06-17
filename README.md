@@ -43,6 +43,18 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>imagemagick</th>
+    <th>graphicsmagick</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/imagemagick/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/imagemagick.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/graphicsmagick/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/graphicsmagick.svg" alt="Packaging status" align="right"></a>
+</table>
+
 
 <table>
   <tr>
