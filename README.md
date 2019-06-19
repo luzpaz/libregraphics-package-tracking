@@ -287,16 +287,24 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 </table>  
 </details>
 
-## Video Renderers
+## Renderers
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
 <table>
   <tr>
     <th>appleseed</th>
+    <th>ospray<th>
+    <th>embree</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/appleseed/versions">
       <img src="https://repology.org/badge/vertical-allrepos/appleseed.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ospray/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ospray.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/embree/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/embree.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 </details>
