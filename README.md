@@ -293,7 +293,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>appleseed</th>
-    <th>ospray<th>
+    <th>ospray</th>
     <th>embree</th>
   </tr>
   <tr>
