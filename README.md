@@ -201,6 +201,25 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>pix</th>
+    <th>kphotoalbum</th>
+    <th>lightzone</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/pix/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/pix.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/kphotoalbum/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/kphotoalbum.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/lightzone/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lightzone.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
 </details>
 
 ## Video
