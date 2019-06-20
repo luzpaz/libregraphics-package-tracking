@@ -164,14 +164,43 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 
 <table>
   <tr>
+    <th>ufraw</th>
+    <th>photivo</th>
     <th>photofilmstrip</th>
   </tr>
   <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/ufraw/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ufraw.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/photivo/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/photivo.svg" alt="Packaging status" align="right"></a>
+    </td>
     <td valign="top"><a href="https://repology.org/metapackage/photofilmstrip/versions">
       <img src="https://repology.org/badge/vertical-allrepos/photofilmstrip.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <th>hugin</th>
+    <th>hdrmerge</th>
+    <th>photoflare</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/hugin/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/hugin.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/hdrmerge/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/hdrmerge.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/photoflare/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/photoflare.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
 </details>
 
 ## Video
