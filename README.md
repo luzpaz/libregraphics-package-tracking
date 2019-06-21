@@ -108,11 +108,15 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>blender</th>
+    >th>natrol</th>
     <th>wings3d</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/blender/versions">
       <img src="https://repology.org/badge/vertical-allrepos/blender.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/natron/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/natron.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/wings3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/wings3d.svg" alt="Packaging status" align="right"></a>
