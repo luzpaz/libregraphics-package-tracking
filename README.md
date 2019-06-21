@@ -108,7 +108,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 <table>
   <tr>
     <th>blender</th>
-    <th>natrol</th>
+    <th>natron</th>
     <th>wings3d</th>
   </tr>
   <tr>
