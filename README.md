@@ -327,6 +327,7 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
   <tr>
     <th>room-arranger</th>
     <th>kicad</th>
+    <th>openSCAD</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/room-arranger/versions">
@@ -334,6 +335,9 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/kicad/versions">
       <img src="https://repology.org/badge/vertical-allrepos/kicad.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/openscad/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/openscad.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>  
