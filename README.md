@@ -2,6 +2,75 @@
 Tracking FOSS libregraphics projects packages in the package ecosystem using Repology
 
 
+<!-- Within this comment are all the packages being tracked
+gimp
+gegl
+babl
+inkscape
+krita
+gmic
+imagemagick
+graphicsmagick
+mypaint
+azpainter
+kolourpaint
+synfig
+milton
+fontforge
+blender
+natron
+wings3d
+darktable
+rawtherapee
+luminance-hdr
+entangle
+photoflow
+digikam
+ufraw
+photivo
+photofilmstrip
+hugin
+hdrmerge
+photoflare
+pix
+kphotoalbum
+lightzone
+vlc
+mpv
+ffmpeg
+kdenlive
+pitivi
+shotcut
+olive-video-editor
+openshot
+obs-studio
+flowblade
+freecad
+librecad
+sweethome3d
+room-arranger
+kicad
+openSCAD
+appleseed
+ospray
+embree
+musescore
+lilypond
+mixxx
+giada
+portaudio
+jack-audio-connection-kit
+sonic-visualiser
+gstreamer1
+zynaddsubfx
+audacity
+dexed-synth
+lv2:gxplugins
+scribus
+sk1
+laidout
+-->
+
 ## Graphics
 <details>
   <summary><b>Expand this section in order to view it</b></summary>
