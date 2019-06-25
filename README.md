@@ -439,12 +439,12 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 
 <table>
   <tr>
-    <th>dexed</th>
+    <th>dexed-synth</th>
     <th>lv2:gxplugins</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/dexed/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/dexed.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/dexed-synth/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/dexed-synth.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
