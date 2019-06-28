@@ -69,6 +69,7 @@ lv2:gxplugins
 scribus
 sk1
 laidout
+kodi
 -->
 
 ## Graphics
@@ -316,7 +317,22 @@ laidout
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>kodi</th>
+    <!--<th>mpv</th>
+    <th>ffmpeg</th>-->
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/kodi/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/kodi.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
 </details>
+
+
 
 ## Video Editing
 <details>
