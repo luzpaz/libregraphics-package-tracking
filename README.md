@@ -54,6 +54,7 @@ openSCAD
 appleseed
 ospray
 embree
+luxcorerender
 musescore
 lilypond
 mixxx
@@ -447,8 +448,21 @@ kodi
     <td valign="top"><a href="https://repology.org/metapackage/embree/versions">
       <img src="https://repology.org/badge/vertical-allrepos/embree.svg" alt="Packaging status" align="right"></a>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>luxcorerender</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
 </table>
 </details>
+
 
 
 ## Music/Audio
