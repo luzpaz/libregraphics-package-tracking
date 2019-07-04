@@ -55,6 +55,7 @@ appleseed
 ospray
 embree
 luxcorerender
+povray
 musescore
 lilypond
 mixxx
@@ -454,10 +455,14 @@ kodi
 <table>
   <tr>
     <th>luxcorerender</th>
+    <th>povray</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
       <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/povray.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
