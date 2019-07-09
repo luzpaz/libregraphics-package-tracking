@@ -68,6 +68,7 @@ zynaddsubfx
 audacity
 dexed-synth
 lv2:gxplugins
+gnuradio
 scribus
 sk1
 laidout
@@ -545,6 +546,7 @@ kodi
   <tr>
     <th>dexed-synth</th>
     <th>lv2:gxplugins</th>
+    <th>gnuradio</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/dexed-synth/versions">
@@ -552,6 +554,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gnuradio/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gnuradio.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
