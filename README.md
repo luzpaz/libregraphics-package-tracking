@@ -1,6 +1,7 @@
 # Libregraphics Package Tracking Resource
 Tracking FOSS libregraphics projects packages in the package ecosystem using Repology
 
+Note: To track by a specific distribution/platform, please see [DISTROS](DISTROS/).
 
 <!-- Within this comment are all the packages being tracked
 gimp
