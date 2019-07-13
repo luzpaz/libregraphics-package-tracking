@@ -52,6 +52,7 @@ sweethome3d
 room-arranger
 kicad
 openSCAD
+solvespace
 appleseed
 ospray
 embree
@@ -427,6 +428,17 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/openscad/versions">
       <img src="https://repology.org/badge/vertical-allrepos/openscad.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>  
+
+<table>
+  <tr>
+    <th>solvespace</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/solvespace/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/solvespace.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>  
