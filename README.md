@@ -21,6 +21,7 @@ fontforge
 blender
 natron
 wings3d
+dust3d
 darktable
 rawtherapee
 luminance-hdr
@@ -198,6 +199,19 @@ kodi
     </td>
   </tr>
 </table>
+  
+<table>
+  <tr>
+    <th>dust3d</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/dust3d/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/dust3d.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+  
+  
 </details>
 
 ## Photography
