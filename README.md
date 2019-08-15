@@ -18,6 +18,7 @@ kolourpaint
 synfig
 milton
 fontforge
+birdfont
 blender
 natron
 wings3d
@@ -169,10 +170,14 @@ kodi
 <table>
   <tr>
     <th>fontforge</th>
+    <th>birdfont</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/fontforge/versions">
       <img src="https://repology.org/badge/vertical-allrepos/fontforge.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/birdfont/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/birdfont.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
