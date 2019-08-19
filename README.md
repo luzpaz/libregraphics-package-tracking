@@ -209,10 +209,14 @@ kodi
 <table>
   <tr>
     <th>dust3d</th>
+    <th>dvg</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/dust3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/dust3d.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/dvg/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/dvg.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
