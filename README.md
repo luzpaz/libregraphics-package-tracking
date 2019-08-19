@@ -23,7 +23,7 @@ blender
 natron
 wings3d
 dust3d
-dvg
+djv
 darktable
 rawtherapee
 luminance-hdr
@@ -210,14 +210,14 @@ kodi
 <table>
   <tr>
     <th>dust3d</th>
-    <th>dvg</th>
+    <th>djv</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/dust3d/versions">
       <img src="https://repology.org/badge/vertical-allrepos/dust3d.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/dvg/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/dvg.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/djv/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/djv.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
