@@ -23,6 +23,7 @@ blender
 natron
 wings3d
 dust3d
+dvg
 darktable
 rawtherapee
 luminance-hdr
