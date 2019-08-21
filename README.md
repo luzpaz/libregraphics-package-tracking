@@ -74,6 +74,7 @@ audacity
 dexed-synth
 lv2:gxplugins
 gnuradio
+guitarix
 kapitonov-plugins-pack-lv2
 vcvrack
 scribus
@@ -603,11 +604,15 @@ kodi
 <table>
   <tr>
     <th>gnuradio</th>
+    <th>guitarix</th>
     <th>kapitonov-plugins-pack-lv2</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gnuradio/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gnuradio.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/guitarix/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/guitarix.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/kapitonov-plugins-pack-lv2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/kapitonov-plugins-pack-lv2.svg" alt="Packaging status" align="right"></a>
