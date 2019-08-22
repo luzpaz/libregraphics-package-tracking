@@ -28,7 +28,8 @@ darktable
 rawtherapee
 luminance-hdr
 entangle
-photoflow
+photo
+
 digikam
 ufraw
 photivo
@@ -49,6 +50,7 @@ olive-video-editor
 openshot
 obs-studio
 flowblade
+lives
 freecad
 librecad
 sweethome3d
@@ -411,10 +413,15 @@ kodi
 <table>
   <tr>
     <th>flowblade</th>
+    <th>lives</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/flowblade/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/flowblade.svg" alt="Packaging status" align="right"></a>
+      <img src="https://repology.org/badge/vertical-allrepos/flowblade.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/lives/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lives.svg" alt="Packaging status" align="right"></a>
+    </td>
   </tr>
 </table>
 </details>
