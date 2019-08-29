@@ -30,7 +30,6 @@ rawtherapee
 luminance-hdr
 entangle
 photo
-
 digikam
 ufraw
 photivo
@@ -41,6 +40,7 @@ photoflare
 pix
 kphotoalbum
 lightzone
+stereophotoview
 vlc
 mpv
 ffmpeg
@@ -330,6 +330,17 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/lightzone/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lightzone.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>stereophotoview</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/stereophotoview/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/stereophotoview.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
