@@ -64,6 +64,7 @@ ospray
 embree
 luxcorerender
 povray
+yafaray
 musescore
 lilypond
 mixxx
@@ -521,6 +522,7 @@ kodi
   <tr>
     <th>luxcorerender</th>
     <th>povray</th>
+    <th>yafaray</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
@@ -528,6 +530,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
       <img src="https://repology.org/badge/vertical-allrepos/povray.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/yafaray/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/yafaray.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
