@@ -82,6 +82,7 @@ guitarix
 kapitonov-plugins-pack-lv2
 vcvrack
 qtractor
+carla
 scribus
 sk1
 laidout
@@ -652,10 +653,14 @@ kodi
 <table>
   <tr>
     <th>qtractor</th>
+    <th>carla</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/qtractor/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qtractor.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/carla/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/carla.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
