@@ -59,6 +59,8 @@ room-arranger
 kicad
 openSCAD
 solvespace
+openorienteering-mapper
+qgis
 appleseed
 ospray
 embree
@@ -492,10 +494,17 @@ kodi
 <table>
   <tr>
     <th>solvespace</th>
+    <th>openorienteering-mapper</th>
+    <th>qgis</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/solvespace/versions">
       <img src="https://repology.org/badge/vertical-allrepos/solvespace.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/openorienteering-mapper/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/openorienteering-mapper.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/qgis/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/qgis.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>  
