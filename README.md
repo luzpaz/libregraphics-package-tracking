@@ -82,6 +82,10 @@ guitarix
 kapitonov-plugins-pack-lv2
 vcvrack
 qtractor
+synthv1
+padthv1
+drumkb1
+samplv1
 carla
 scribus
 sk1
@@ -653,11 +657,33 @@ kodi
 <table>
   <tr>
     <th>qtractor</th>
-    <th>carla</th>
+    <th>synthv1</th>
+    <th>padthv1</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/qtractor/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qtractor.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/synthv1/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/synthv1.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/padthv1/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/padthv1.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>drumkv1</th>
+    <th>samplv1</th>
+    <th>carla</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/drumkv1/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/drumkv1.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/samplv1/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/samplv1.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/carla/versions">
       <img src="https://repology.org/badge/vertical-allrepos/carla.svg" alt="Packaging status" align="right"></a>
