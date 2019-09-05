@@ -517,7 +517,7 @@ kodi
   <tr>
     <th>appleseed</th>
     <th>ospray</th>
-    <th>embree</th>
+    <th>povray</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/appleseed/versions">
@@ -526,8 +526,8 @@ kodi
     <td valign="top"><a href="https://repology.org/metapackage/ospray/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ospray.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/embree/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/embree.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/povray.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -535,15 +535,15 @@ kodi
 <table>
   <tr>
     <th>luxcorerender</th>
-    <th>povray</th>
+    <th>embree</th>
     <th>yafaray</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/luxcorerender/versions">
       <img src="https://repology.org/badge/vertical-allrepos/luxcorerender.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/povray/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/povray.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/embree/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/embree.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/yafaray/versions">
       <img src="https://repology.org/badge/vertical-allrepos/yafaray.svg" alt="Packaging status" align="right"></a>
