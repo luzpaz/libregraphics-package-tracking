@@ -103,6 +103,7 @@ freebirth
 gsequencer
 qsampler
 add64
+linuxsampler
 scribus
 sk1
 laidout
@@ -784,6 +785,7 @@ kodi
   <tr>
     <th>freebirth</th>
     <th>add64</th>
+    <th>linuxsampler</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/freebirth/versions">
@@ -791,6 +793,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/add64/versions">
       <img src="https://repology.org/badge/vertical-allrepos/add64.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/linuxsampler/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/linuxsampler.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
