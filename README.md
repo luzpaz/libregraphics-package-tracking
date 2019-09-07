@@ -99,7 +99,6 @@ ardour
 aubio
 swami
 freebirth
-byzorgan
 gsequencer
 add64
 scribus
@@ -393,8 +392,6 @@ kodi
 <table>
   <tr>
     <th>kodi</th>
-    <!--<th>mpv</th>
-    <th>ffmpeg</th>-->
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/kodi/versions">
@@ -765,7 +762,6 @@ kodi
   <tr>
     <th>gsequencer</th>
     <th>aubio</th>
-    <th>byzorgan</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gsequencer/versions">
@@ -774,9 +770,6 @@ kodi
     <td valign="top"><a href="https://repology.org/metapackage/aubio/versions">
       <img src="https://repology.org/badge/vertical-allrepos/aubio.svg" alt="Packaging status" align="right"></a>
     </td>
-    <td valign="top"><a href="https://repology.org/metapackage/byzorgan/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/byzorgan.svg" alt="Packaging status" align="right"></a>
-    </td>
   </tr>
 </table>
 
@@ -784,8 +777,7 @@ kodi
 <table>
   <tr>
     <th>freebirth</th>
-    <th>ardour</th>
-    <th>swami</th>
+    <th>add64</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/freebirth/versions">
