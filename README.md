@@ -84,7 +84,10 @@ guitarix
 kapitonov-plugins-pack-lv2
 vcvrack
 qtractor
-carla
+carla,
+yoshimi
+qsynth
+rakarrack
 drumgizmo
 synthv1
 padthv1
@@ -713,7 +716,6 @@ kodi
     <th>padthv1</th>
     <th>drumkv1</th>
     <th>samplv1</th>
-    <th></th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/synthv1/versions">
