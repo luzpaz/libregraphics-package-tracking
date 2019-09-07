@@ -85,11 +85,12 @@ kapitonov-plugins-pack-lv2
 vcvrack
 qtractor
 carla
+drumgizmo
 synthv1
 padthv1
 drumkb1
 samplv1
-drumgizmo
+hydrogen
 scribus
 sk1
 laidout
@@ -577,6 +578,7 @@ kodi
   <tr>
     <th>mixxx</th>
     <th>giada</th>
+    <th>hydrogen</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/mixxx/versions">
@@ -584,6 +586,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/giada/versions">
       <img src="https://repology.org/badge/vertical-allrepos/giada.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/hydrogen/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/hydrogen.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -622,6 +627,25 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/audacity/versions">
       <img src="https://repology.org/badge/vertical-allrepos/audacity.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>yooshimi</th>
+    <th>qsynth</th>
+    <th>rakarrack</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/yoshimi/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/yoshimi.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/qsynth/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/qsynth.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/rakarrack/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/rakarrack.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
