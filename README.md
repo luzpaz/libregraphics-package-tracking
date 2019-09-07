@@ -3,7 +3,8 @@ Tracking FOSS libregraphics projects packages in the package ecosystem using Rep
 
 Note: To track by a specific distribution/platform, please see [DISTROS](DISTROS/).
 
-<!-- Within this comment are all the packages being tracked
+<!-- Within this
+comment are all the packages being tracked
 gimp
 gegl
 babl
@@ -100,6 +101,7 @@ aubio
 swami
 freebirth
 gsequencer
+qsampler
 add64
 scribus
 sk1
@@ -761,11 +763,15 @@ kodi
 <table>
   <tr>
     <th>gsequencer</th>
+    <th>qsampler</th>
     <th>aubio</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gsequencer/versions">
       <img src="https://repology.org/badge/vertical-allrepos/gsequencer.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/qsampler/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/qsampler.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/aubio/versions">
       <img src="https://repology.org/badge/vertical-allrepos/aubio.svg" alt="Packaging status" align="right"></a>
