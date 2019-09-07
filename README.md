@@ -95,6 +95,13 @@ drumkb1
 samplv1
 hydrogen
 snd
+ardour
+aubio
+swami
+freebirth
+byzorgan
+gsequencer
+add64
 scribus
 sk1
 laidout
@@ -737,18 +744,57 @@ kodi
 <table>
   <tr>
     <th>snd</th>
-    <th></th>
-    <th></th>
+    <th>ardour</th>
+    <th>swami</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/snd/versions">
       <img src="https://repology.org/badge/vertical-allrepos/snd.svg" alt="Packaging status" align="right"></a>
     </td>
+    <td valign="top"><a href="https://repology.org/metapackage/ardour/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ardour.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/swami/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/swami.svg" alt="Packaging status" align="right"></a>
+    </td>
   </tr>
 </table>
 
 
+<table>
+  <tr>
+    <th>gsequencer</th>
+    <th>aubio</th>
+    <th>byzorgan</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/gsequencer/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gsequencer.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/aubio/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/aubio.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/byzorgan/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/byzorgan.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
 
+
+<table>
+  <tr>
+    <th>freebirth</th>
+    <th>ardour</th>
+    <th>swami</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/freebirth/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/freebirth.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/add64/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/add64.svg" alt="Packaging status" align="right"></a>
+    </td>
+</table>
 
 </details>
 
