@@ -89,6 +89,7 @@ synthv1
 padthv1
 drumkb1
 samplv1
+drumgizmo
 scribus
 sk1
 laidout
@@ -667,6 +668,7 @@ kodi
   <tr>
     <th>qtractor</th>
     <th>carla</th>
+    <th>drumgizmo</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/qtractor/versions">
@@ -674,6 +676,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/carla/versions">
       <img src="https://repology.org/badge/vertical-allrepos/carla.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/drumgizmo/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/drumgizmo.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
