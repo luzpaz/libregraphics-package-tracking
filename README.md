@@ -71,6 +71,7 @@ povray
 yafaray
 musescore
 lilypond
+rosegarden
 mixxx
 giada
 portaudio
@@ -579,6 +580,7 @@ kodi
   <tr>
     <th>musescore</th>
     <th>lilypond</th>
+    <th>rosegarden</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/musescore/versions">
@@ -586,6 +588,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/lilypond/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lilypond.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/rosegarden/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/rosegarden.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
