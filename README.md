@@ -53,6 +53,7 @@ openshot
 obs-studio
 flowblade
 lives
+gnome-subtitles
 freecad
 librecad
 sweethome3d
@@ -451,6 +452,7 @@ kodi
   <tr>
     <th>flowblade</th>
     <th>lives</th>
+    <th>gnome-subtitles</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/flowblade/versions">
@@ -458,6 +460,9 @@ kodi
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/lives/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lives.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/gnome-subtitles/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gnome-subtitles.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
