@@ -397,10 +397,14 @@ kodi
 <table>
   <tr>
     <th>kodi</th>
+    <th>handbrake</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/kodi/versions">
       <img src="https://repology.org/badge/vertical-allrepos/kodi.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/handbrake/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/handbrake.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
