@@ -658,7 +658,7 @@ kodi
 
 <table>
   <tr>
-    <th>yooshimi</th>
+    <th>yoshimi</th>
     <th>qsynth</th>
     <th>rakarrack</th>
   </tr>
@@ -812,6 +812,19 @@ kodi
       <img src="https://repology.org/badge/vertical-allrepos/linuxsampler.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
+
+<table>
+  <tr>
+    <th>helio-workstation</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/helio-workstation/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/helio-workstation.svg" alt="Packaging status" align="right"></a>
+    </td>
+</table>
+
 
 </details>
 
