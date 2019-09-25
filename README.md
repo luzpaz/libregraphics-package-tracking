@@ -89,6 +89,7 @@ vcvrack
 qtractor
 carla,
 yoshimi
+fluidsynth
 qsynth
 rakarrack
 drumgizmo
@@ -659,12 +660,16 @@ kodi
 <table>
   <tr>
     <th>yoshimi</th>
+    <th>fluidsynth</th>
     <th>qsynth</th>
     <th>rakarrack</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/yoshimi/versions">
       <img src="https://repology.org/badge/vertical-allrepos/yoshimi.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/fluidsynth/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/fluidsynth.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/qsynth/versions">
       <img src="https://repology.org/badge/vertical-allrepos/qsynth.svg" alt="Packaging status" align="right"></a>
