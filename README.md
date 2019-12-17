@@ -111,6 +111,8 @@ scribus
 sk1
 laidout
 kodi
+calibre
+sigil
 -->
 
 ## Graphics
@@ -855,3 +857,17 @@ kodi
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>calibre</th>
+    <th>sigil</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/calibre/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/calibre.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/sigil/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/sigil.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
