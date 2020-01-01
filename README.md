@@ -475,7 +475,6 @@ sigil
     </td>
   </tr>
 </table>
-</details>
 
 <table>
   <tr>
