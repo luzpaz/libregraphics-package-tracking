@@ -54,6 +54,7 @@ obs-studio
 flowblade
 lives
 gnome-subtitles
+vidcutter
 freecad
 librecad
 sweethome3d
@@ -475,6 +476,19 @@ sigil
   </tr>
 </table>
 </details>
+
+<table>
+  <tr>
+    <th>vidcutter</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/vidcutter/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/vidcutter.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
+</details>
+
 
 ## CAD/CAM/Interior Design
 <details>
