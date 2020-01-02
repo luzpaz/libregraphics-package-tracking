@@ -108,6 +108,7 @@ gsequencer
 qsampler
 add64
 linuxsampler
+lmms
 scribus
 sk1
 laidout
@@ -836,12 +837,15 @@ sigil
 <table>
   <tr>
     <th>helio-workstation</th>
-    <th></th>
+    <th>lmms</th>
     <th></th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/helio-workstation/versions">
       <img src="https://repology.org/badge/vertical-allrepos/helio-workstation.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/lmms/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lmms.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
