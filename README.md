@@ -109,6 +109,7 @@ qsampler
 add64
 linuxsampler
 lmms
+tuxguitar
 scribus
 sk1
 laidout
@@ -838,7 +839,7 @@ sigil
   <tr>
     <th>helio-workstation</th>
     <th>lmms</th>
-    <th></th>
+    <th>tuxguitar</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/helio-workstation/versions">
@@ -846,6 +847,9 @@ sigil
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/lmms/versions">
       <img src="https://repology.org/badge/vertical-allrepos/lmms.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/tuxguitar/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/tuxguitar.svg" alt="Packaging status" align="right"></a>
     </td>
 </table>
 
