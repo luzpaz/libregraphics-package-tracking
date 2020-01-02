@@ -5,6 +5,7 @@ Note: To track by a specific distribution/platform, please see [DISTROS](DISTROS
 
 <!-- Within this
 comment are all the packages being tracked
+## Graphics
 gimp
 gegl
 babl
@@ -21,11 +22,13 @@ opentoonz
 milton
 fontforge
 birdfont
+## 3D Modeling
 blender
 natron
 wings3d
 dust3d
 djv
+## Photography
 darktable
 rawtherapee
 luminance-hdr
@@ -42,6 +45,7 @@ pix
 kphotoalbum
 lightzone
 stereophotoview
+## Video
 vlc
 mpv
 ffmpeg
@@ -55,6 +59,7 @@ flowblade
 lives
 gnome-subtitles
 vidcutter
+## CAD/CAM
 freecad
 librecad
 sweethome3d
@@ -70,6 +75,7 @@ embree
 luxcorerender
 povray
 yafaray
+## Music
 musescore
 lilypond
 rosegarden
@@ -82,10 +88,8 @@ gstreamer1
 zynaddsubfx
 audacity
 dexed-synth
-lv2:gxplugins
 gnuradio
 guitarix
-kapitonov-plugins-pack-lv2
 vcvrack
 qtractor
 carla,
@@ -110,6 +114,10 @@ add64
 linuxsampler
 lmms
 tuxguitar
+## Audio Plugins
+lv2:gxplugins
+calf
+kapitonov-plugins-pack-lv2v
 scribus
 sk1
 laidout
@@ -700,15 +708,11 @@ sigil
 <table>
   <tr>
     <th>dexed-synth</th>
-    <th>lv2:gxplugins</th>
     <th>vcvrack</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/dexed-synth/versions">
       <img src="https://repology.org/badge/vertical-allrepos/dexed-synth.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/vcvrack/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vcvrack.svg" alt="Packaging status" align="right"></a>
@@ -720,7 +724,6 @@ sigil
   <tr>
     <th>gnuradio</th>
     <th>guitarix</th>
-    <th>kapitonov-plugins-pack-lv2</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/gnuradio/versions">
@@ -728,9 +731,6 @@ sigil
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/guitarix/versions">
       <img src="https://repology.org/badge/vertical-allrepos/guitarix.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/kapitonov-plugins-pack-lv2/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/kapitonov-plugins-pack-lv2.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -851,6 +851,35 @@ sigil
     <td valign="top"><a href="https://repology.org/metapackage/tuxguitar/versions">
       <img src="https://repology.org/badge/vertical-allrepos/tuxguitar.svg" alt="Packaging status" align="right"></a>
     </td>
+</table>
+
+<table>
+  <tr>
+    <th>audacious</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/audacious/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/audacious.svg" alt="Packaging status" align="right"></a>
+    </td>
+</table>
+
+## Audio plugins
+<table>
+  <tr>
+    <th>lv2:gxplugins</th>
+    <th>calf</th>
+    <th>kapitonov-plugins-pack-lv2</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/lv2:gxplugins/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/lv2:gxplugins.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/calf/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/calf.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/kapitonov-plugins-pack-lv2/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/kapitonov-plugins-pack-lv2.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
 </table>
 
 
