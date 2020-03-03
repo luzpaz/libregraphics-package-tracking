@@ -28,6 +28,7 @@ natron
 wings3d
 dust3d
 djv
+makehuman
 ## Photography
 darktable
 rawtherapee
@@ -260,6 +261,7 @@ sigil
   <tr>
     <th>dust3d</th>
     <th>djv</th>
+    <th>makehuman</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/dust3d/versions">
@@ -267,6 +269,9 @@ sigil
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/djv/versions">
       <img src="https://repology.org/badge/vertical-allrepos/djv.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/makehuman/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/makehuman.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
