@@ -89,7 +89,6 @@ gstreamer
 zynaddsubfx
 audacity
 dexed-synth
-ninjas2
 gnuradio
 guitarix
 vcvrack
@@ -126,6 +125,7 @@ laidout
 kodi
 calibre
 sigil
+ninjas2
 -->
 
 ## Graphics
@@ -715,7 +715,6 @@ sigil
   <tr>
     <th>dexed-synth</th>
     <th>vcvrack</th>
-    <th>ninjas2</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/dexed-synth/versions">
@@ -723,9 +722,6 @@ sigil
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/vcvrack/versions">
       <img src="https://repology.org/badge/vertical-allrepos/vcvrack.svg" alt="Packaging status" align="right"></a>
-    </td>
-    <td valign="top"><a href="https://repology.org/metapackage/ninjas2/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/ninjas2.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
@@ -892,6 +888,16 @@ sigil
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>ninjas2</th>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://repology.org/metapackage/ninjas2/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/ninjas2.svg" alt="Packaging status" align="right"></a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
