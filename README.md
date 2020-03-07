@@ -85,7 +85,7 @@ giada
 portaudio
 jack-audio-connection-kit
 sonic-visualiser
-gstreamer1
+gstreamer
 zynaddsubfx
 audacity
 dexed-synth
@@ -670,13 +670,13 @@ sigil
 
 <table>
   <tr>
-    <th>gstreamer1</th>
+    <th>gstreamer</th>
     <th>zynaddsubfx</th>
     <th>audacity</th>
   </tr>
   <tr>
-    <td valign="top"><a href="https://repology.org/metapackage/gstreamer1/versions">
-      <img src="https://repology.org/badge/vertical-allrepos/gstreamer1.svg" alt="Packaging status" align="right"></a>
+    <td valign="top"><a href="https://repology.org/metapackage/gstreamer/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/gstreamer.svg" alt="Packaging status" align="right"></a>
     </td>
     <td valign="top"><a href="https://repology.org/metapackage/zynaddsubfx/versions">
       <img src="https://repology.org/badge/vertical-allrepos/zynaddsubfx.svg" alt="Packaging status" align="right"></a>
