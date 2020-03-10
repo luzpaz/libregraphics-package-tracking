@@ -126,6 +126,7 @@ kodi
 calibre
 sigil
 ninjas2
+zam-plugins
 -->
 
 ## Graphics
@@ -891,10 +892,14 @@ ninjas2
 <table>
   <tr>
     <th>ninjas2</th>
+    <th>zam-plugins</th>
   </tr>
   <tr>
     <td valign="top"><a href="https://repology.org/metapackage/ninjas2/versions">
       <img src="https://repology.org/badge/vertical-allrepos/ninjas2.svg" alt="Packaging status" align="right"></a>
+    </td>
+    <td valign="top"><a href="https://repology.org/metapackage/zam-plugins/versions">
+      <img src="https://repology.org/badge/vertical-allrepos/zamp-plugins.svg" alt="Packaging status" align="right"></a>
     </td>
   </tr>
 </table>
